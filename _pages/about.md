@@ -4,6 +4,7 @@ title: "About"
 author: "Chester"
 permalink: /about/
 ---
+![Placeholder image](http://yijunli.net/YijunLi.jpg)
 
 ~~A friend~~ An ENEMY of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
 
