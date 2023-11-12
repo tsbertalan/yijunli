@@ -1,9 +1,16 @@
 <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
+  <!-- <div onclick="location.href='Visual Scene Grammars/index.html'" class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card mdl-cell--3-col anim-card mdl-cell--12-col-phone mdl-cell--3-col-tablet">
+    <div class="mdl-card__media"><div style="background-color:white; background-image: url('Visual Scene Grammars/full_scene_grammar.png');" class="card-img-heightcrop"></div></div>
+    <div class="mdl-card__title"><h2 class="mdl-card__title-text">Visual Scene Grammars</h2></div>
+    <div class="mdl-card__supporting-text">Foundation models can analyze and generate both images and (noisy) grammars. Let's use that to do some visual scene understanding.</div>
+    </div> -->
+  <div class="card"
   {% if post.hero_image %}
-  <div style="background-image: url('{{ site.baseurl}}/{{ post.hero_image }}');">
+  <div class="card-hero" style="background-image: url('{{ site.baseurl}}/{{ post.hero_image }}');"></div>
   {% else %}
-  <div>
+  <div class="card-hero"></div>
   {% endif %}
+  <div class="card-content">
     {% if post.sticky == 'true' %}
     <span class="catalogue-pinned">
       Pinned
@@ -21,6 +28,6 @@
         {{ post.content | strip_html | truncatewords: 30 }}
       {% endif %}
     </p>
-
+    </div>
   </div>
 </a>
