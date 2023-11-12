@@ -1,6 +1,6 @@
 <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
   {% if post.hero_image %}
-  <div style="background-image: url('{{ post.hero_image | prepend: site.baseurl }}');">
+  <div style="background-image: url('{{ site.baseurl}}/{{ post.hero_image }}');">
   {% else %}
   <div>
   {% endif %}
