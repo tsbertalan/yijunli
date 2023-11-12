@@ -46,6 +46,18 @@
     background: #fff;
     border-radius: 2px;
     box-sizing: border-box;
+    
+    // Some drop shadow
+    -webkit-box-shadow: 0 1px 3px 0 rgba(0,0,0,.2);
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,.2);
+    -webkit-transition: -webkit-box-shadow .28s cubic-bezier(.4,0,.2,1);
+    transition: -webkit-box-shadow .28s cubic-bezier(.4,0,.2,1);
+    transition: box-shadow .28s cubic-bezier(.4,0,.2,1);
+    transition: box-shadow .28s cubic-bezier(.4,0,.2,1),-webkit-box-shadow .28s cubic-bezier(.4,0,.2,1);
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    margin: 0 8px 16px;
+    padding: 16px 16px 0;
   }
 
   &-media {
