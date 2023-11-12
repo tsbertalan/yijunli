@@ -36,6 +36,7 @@ permalink: /tags/
     </svg>
     <h2 class="tags-item-label">{{ tag[0] }}</h2>
     {% for post in tag[1] %}
+    {% if not post.hidden %}
     <a class="tags-post" href="{{ post.url | prepend: site.baseurl }}">
       <div>
         <span class="tags-post-title">{{ post.title }}</span>
@@ -47,6 +48,7 @@ permalink: /tags/
         </time>
       </span>
     </a>
+    {% endif %}
     {% endfor %}
   </div>
   {% endfor %}
