@@ -8,4 +8,5 @@ sticky: false
 hidden: false
 ---
 
+<!--more-->
 Identified heterogenous weight-for-length trajectories using latent growth mixture modelling in Latinx children. Developed models to predict future obesity risk based on the growth trajectories.

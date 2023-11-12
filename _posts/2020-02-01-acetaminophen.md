@@ -8,4 +8,5 @@ sticky: false
 hidden: false
 ---
 
+<!--more-->
 Led an analysis to investigate the associations between acetaminophen metabolites in cord blood and subtypes of childhood asthma in a birth cohort.
