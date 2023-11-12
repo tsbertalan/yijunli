@@ -5,11 +5,11 @@
     <div class="mdl-card__supporting-text">Foundation models can analyze and generate both images and (noisy) grammars. Let's use that to do some visual scene understanding.</div>
     </div> -->
   <div class="card"
-  {% if post.hero_image %}
-  <div class="card-hero" style="background-image: url('{{ site.baseurl}}/{{ post.hero_image }}');"></div>
-  {% else %}
-  <div class="card-hero"></div>
-  {% endif %}
+  <div clsas="catalogue-media">
+    {% if post.hero_image %}
+    <div class="catalogue-heightcrop" style="background-image: url('{{ site.baseurl}}/{{ post.hero_image }}');"></div>
+    {% endif %}
+  </div>
   <div class="card-content">
     {% if post.sticky == 'true' %}
     <span class="catalogue-pinned">
