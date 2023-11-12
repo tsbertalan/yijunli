@@ -1,6 +1,9 @@
 <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
   <div>
-    {% if include.sticky == 'true' %}
+    {% if post.hero_image %}
+    <img src="{{ post.hero_image }}" class="catalogue-image" height="100%" />
+    {% endif %}
+    {% if post.sticky == 'true' %}
     <span class="catalogue-pinned">
       Pinned
       <!-- &middot; -->
