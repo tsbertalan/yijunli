@@ -7,9 +7,7 @@ permalink: /projects/
 
 <div class="catalogue">
   {% for post in site.posts %}
-    {% if post.sticky %}
-      {% include catalogue_item.html sticky='true' %}
-    {% endif %}
+    {% include catalogue_item.html sticky='true' %}
   {% endfor %}
 
   {% for post in paginator.posts %}
@@ -24,6 +22,5 @@ permalink: /projects/
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
   {% endif %}
-
   <span>{{ paginator.page }}</span>
 </div>

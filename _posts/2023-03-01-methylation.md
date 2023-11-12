@@ -4,7 +4,7 @@ title:  "Methylation and Childhood Asthma"
 comments: false
 tags: epidemiology, genetics, EWAS
 excerpt_separator: <!--more-->
-sticky: false
+sticky: true
 hidden: false
 ---
 
