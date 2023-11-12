@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Publications"
-author: "Yijun"
 permalink: /publications
 ---
-![Placeholder image](http://yijunli.net/YijunLi.jpg)
 
 ## Publications
 - Li, Y, Zhu, Z, Camargo, CA, et al. "Integration of methylome and proteome data provides insights into the development of childhood asthma among infants hospitalized for bronchiolitis.” [Manuscript in Preparation]

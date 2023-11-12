@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Education"
-author: "Yijun"
 permalink: /education
 ---
-![Placeholder image](http://yijunli.net/YijunLi.jpg)
 
 ## Degrees
 - Genetic Epidemiology, Doctor of Philosophy (PhD)

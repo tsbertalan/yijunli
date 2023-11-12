@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Service"
-author: "Yijun"
 permalink: /service
 ---
-![Placeholder image](http://yijunli.net/YijunLi.jpg)
 
 - Platform Session Moderator
 American Society for Human Genetics (ASHG) annual meeting 
