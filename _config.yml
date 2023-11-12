@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          Yijun Li
+description:    "Genetic Epidemiologist"
+url:            "https://YijunLi.net"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Yijun Li
+  url:          https://YijunLi.net
+  email:        Yijun@YijunLi.net
 
 # Build settings
 markdown:       kramdown
