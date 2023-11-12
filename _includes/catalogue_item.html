@@ -1,8 +1,9 @@
 <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
+  {% if post.hero_image %}
+  <div style="background-image: url('{{ post.hero_image | prepend: site.baseurl }}');">
+  {% else %}
   <div>
-    {% if post.hero_image %}
-    <img src="{{ post.hero_image }}" class="catalogue-image" height="100%" />
-    {% endif %}
+  {% endif %}
     {% if post.sticky == 'true' %}
     <span class="catalogue-pinned">
       Pinned
