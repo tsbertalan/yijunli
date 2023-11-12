@@ -4,30 +4,30 @@
     <div class="mdl-card__title"><h2 class="mdl-card__title-text">Visual Scene Grammars</h2></div>
     <div class="mdl-card__supporting-text">Foundation models can analyze and generate both images and (noisy) grammars. Let's use that to do some visual scene understanding.</div>
     </div> -->
-  <div class="card"
-  <div clsas="catalogue-media">
-    {% if post.hero_image %}
-    <div class="catalogue-heightcrop" style="background-image: url('{{ site.baseurl}}/{{ post.hero_image }}');"></div>
-    {% endif %}
-  </div>
-  <div class="card-content">
-    {% if post.sticky == 'true' %}
-    <span class="catalogue-pinned">
-      Pinned
-      <!-- &middot; -->
-    </span>
-    {% endif %}
-    <!-- <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time> -->
-    <h1 class="catalogue-title">{{ post.title }}</h1>
-    <div class="catalogue-line"></div>
-
-    <p>
-      {% if post.excerpt_separator %}
-        {{ post.excerpt | strip_html }}
-      {% else %}
-        {{ post.content | strip_html | truncatewords: 30 }}
+  <div class="catalogue-card">
+    <div clsas="catalogue-media">
+      {% if post.hero_image %}
+      <div class="catalogue-heightcrop" style="background-image: url('{{ site.baseurl}}/{{ post.hero_image }}');"></div>
       {% endif %}
-    </p>
+    </div>
+    <div class="card-content">
+      {% if post.sticky == 'true' %}
+      <span class="catalogue-pinned">
+        Pinned
+        <!-- &middot; -->
+      </span>
+      {% endif %}
+      <!-- <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time> -->
+      <h1 class="catalogue-title">{{ post.title }}</h1>
+      <div class="catalogue-line"></div>
+
+      <p>
+        {% if post.excerpt_separator %}
+          {{ post.excerpt | strip_html }}
+        {% else %}
+          {{ post.content | strip_html | truncatewords: 30 }}
+        {% endif %}
+      </p>
     </div>
   </div>
 </a>
