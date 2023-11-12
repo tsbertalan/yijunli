@@ -7,7 +7,7 @@ permalink: /projects/
 
 <div class="catalogue">
   {% for post in site.posts %}
-    {% include catalogue_item.html sticky='true' %}
+    {% include catalogue_item.html sticky=post.sticky %}
   {% endfor %}
 
   {% for post in paginator.posts %}
