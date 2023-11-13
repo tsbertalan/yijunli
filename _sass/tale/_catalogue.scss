@@ -29,14 +29,31 @@
     align-items: stretch;
   }
 
-  &-card-quarter {
-    // width: 330px;
-    width: calc(25% - 16px);
+  
+  /* Smartphones (portrait) ----------- */
+  @media only screen 
+  and (max-width : 320px) {
+    /* Styles */
+    &-card-quarter {
+      // width: 330px;
+      width: calc(100% - 16px);
+    }
+    &-card-half {
+      // width: 330px;
+      width: calc(100% - 16px);
+    }
   }
 
-  &-card-half {
-    // width: 330px;
-    width: calc(50% - 16px);
+  // Larger than mobile
+  @media (min-width: 321px) {
+    &-card-quarter {
+      // width: 330px;
+      width: calc(25% - 16px);
+    }
+    &-card-half {
+      // width: 330px;
+      width: calc(max(50% - 16px);
+    }
   }
 
   &-card-content {
