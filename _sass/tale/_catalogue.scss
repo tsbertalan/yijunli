@@ -22,7 +22,9 @@
     -webkit-flex-flow: row wrap;
     -ms-flex-flow: row wrap;
     flex-flow: row wrap;
-    margin: 0 auto;
+    // margin: 0 auto;
+    padding: 8px;
+    margin: 8px;
     -webkit-align-items: stretch;
     -ms-flex-align: stretch;
     align-items: stretch;
@@ -46,18 +48,9 @@
     background: #fff;
     border-radius: 2px;
     box-sizing: border-box;
-    
+
     // Some drop shadow
-    -webkit-box-shadow: 0 1px 3px 0 rgba(0,0,0,.2);
-    box-shadow: 0 1px 3px 0 rgba(0,0,0,.2);
-    -webkit-transition: -webkit-box-shadow .28s cubic-bezier(.4,0,.2,1);
-    transition: -webkit-box-shadow .28s cubic-bezier(.4,0,.2,1);
-    transition: box-shadow .28s cubic-bezier(.4,0,.2,1);
-    transition: box-shadow .28s cubic-bezier(.4,0,.2,1),-webkit-box-shadow .28s cubic-bezier(.4,0,.2,1);
-    -webkit-transform: translateZ(0);
-    transform: translateZ(0);
-    margin: 0 8px 16px;
-    padding: 16px 16px 0;
+    box-shadow: 0 4px 5px 0 rgba(0,0,0,.14),0 1px 10px 0 rgba(0,0,0,.12),0 2px 4px -1px rgba(0,0,0,.2);
   }
 
   &-media {
