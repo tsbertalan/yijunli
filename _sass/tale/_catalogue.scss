@@ -30,9 +30,9 @@
   }
 
   
-  /* Smartphones (portrait) ----------- */
+  /* Narrow screens ----------- */
   @media only screen 
-  and (max-width : 320px) {
+  and (max-width : 500px) {
     /* Styles */
     &-card-quarter {
       // width: 330px;
@@ -44,8 +44,8 @@
     }
   }
 
-  // Larger than mobile
-  @media (min-width: 321px) {
+  // Wider
+  @media (min-width: 501px) {
     &-card-quarter {
       // width: 330px;
       width: calc(25% - 16px);
