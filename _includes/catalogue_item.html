@@ -1,10 +1,10 @@
-<div class="catalogue-card" onclick="location.href='{{ post.url | prepend: site.baseurl }}';">
+<div class="catalogue-card catalogue-card-half" onclick="location.href='{{ post.url | prepend: site.baseurl }}';">
   <div clsas="catalogue-media">
     {% if post.hero_image %}
     <div class="catalogue-heightcrop" style="background-image: url('{{ site.baseurl}}/{{ post.hero_image }}');"></div>
     {% endif %}
   </div>
-  <div class="card-content">
+  <div class="catalogue-card-content">
     {% if post.sticky == 'true' %}
     <span class="catalogue-pinned">
       Pinned

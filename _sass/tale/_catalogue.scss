@@ -23,16 +23,28 @@
     -ms-flex-flow: row wrap;
     flex-flow: row wrap;
     // margin: 0 auto;
-    padding: 8px;
     margin: 8px;
     -webkit-align-items: stretch;
     -ms-flex-align: stretch;
     align-items: stretch;
   }
 
+  &-card-quarter {
+    // width: 330px;
+    width: calc(25% - 16px);
+  }
+
+  &-card-half {
+    // width: 330px;
+    width: calc(50% - 16px);
+  }
+
+  &-card-content {
+    padding: 4px;
+  }
+
   &-card {
-    padding: 8px;
-    margin: 8px;
+    margin: 12px;
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
@@ -43,8 +55,6 @@
     font-weight: 400;
     min-height: 200px;
     overflow: hidden;
-    // width: 330px;
-    width: calc(25% - 16px);
     z-index: 1;
     position: relative;
     background: #fff;
