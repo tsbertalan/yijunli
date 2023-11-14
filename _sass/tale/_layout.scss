@@ -13,6 +13,12 @@ footer,
   width: 80%;
 }
 
+main ul {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
