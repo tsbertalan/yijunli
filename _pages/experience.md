@@ -5,7 +5,7 @@ permalink: /experience
 ---
 
 - **Platform Session Moderator**<br/>
-*American Society for Human Genetics (ASHG) annual meeting*	    Nov. 2023<br/>
+*American Society for Human Genetics (ASHG) annual meeting*	    <span style="float:right;">Nov. 2023</span><br/>
 “More data, same problems: Bias in large-scale studies”, Washington DC
 - **Incubator Program Participant**<br/>
 *Harvard Biotech Club* 	Oct. 2023-present<br/>
