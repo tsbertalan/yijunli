@@ -4,7 +4,8 @@ title: "Experience"
 permalink: /experience
 ---
 
-- **Platform Session Moderator**<br/>
+- <strong>Platform Session Moderator</strong><br/>
+
 *American Society for Human Genetics (ASHG) annual meeting*	    Nov. 2023<br/>
 “More data, same problems: Bias in large-scale studies”, Washington DC
 - **Incubator Program Participant**<br/>
