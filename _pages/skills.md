@@ -6,11 +6,11 @@ permalink: /skills
 
 ## Statistical genetics and omics analysis: 
 Statistical genetics analysis for complex traits (e.g., GWAS, PRS, statistical fine-mapping, colocalization, Mendelian randomization, QTL mapping, etc.) 
-<br>
+
 Analysis for high-dimensional molecular data (e.g., EWAS, differential expression analysis using bulk RNA-sequencing data, weighted gene co-expression network analysis (WGCNA), similarity network fusion (SNF), etc.)
-<br>
+
 Other analysis including pathway enrichment analysis, gene-by-environment interactions, etc.
-<br>
+
 Data quality control for epigenome-wide DNA methylation (Illumina array), proteomics (Olink platform), metabolomics (mass spectrometry), and genotyping array data.  
 
 ## Longitudinal and survival data analysis:
