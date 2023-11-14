@@ -7,7 +7,7 @@ tags:
   - drug-metabolism
   - epidemiology
 excerpt_separator: <!--more-->
-sticky: false
+sticky: true
 hidden: false
 hero_image: assets/Figure5_APAP_BBC.jpg
 dispOrder: 5

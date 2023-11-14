@@ -7,7 +7,7 @@ tags:
   - genetics
   - EWAS
 excerpt_separator: <!--more-->
-sticky: true
+sticky: false
 hidden: false
 hero_image: assets/Figure13_JAMIA.jpeg
 dispOrder: 7
