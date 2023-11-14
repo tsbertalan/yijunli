@@ -26,5 +26,5 @@ Conducted data analysis to evaluate the quality of time series physiologic signa
 
 This work has been published.
 <br>
-Afshar, AS, **Li, Y**, Chen, Z, et al. “An exploratory data quality analysis of time series physiologic signals using a large-scale intensive care unit database.” *JAMIA open* 4.3 (2021): ooab057. PMID: 34350392 [article](https://academic-oup-com.ezp-prod1.hul.harvard.edu/jamiaopen/article/4/3/ooab057/6334273?login=true&token=)
+Afshar, AS, **Li, Y**, Chen, Z, et al. “An exploratory data quality analysis of time series physiologic signals using a large-scale intensive care unit database.” *JAMIA open* 4.3 (2021): ooab057. [PMID: 34350392](https://academic-oup-com.ezp-prod1.hul.harvard.edu/jamiaopen/article/4/3/ooab057/6334273?login=true&token=)
 <br>

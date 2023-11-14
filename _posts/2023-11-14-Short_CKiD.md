@@ -20,4 +20,4 @@ Led an analysis in a cohort of children with chronic kidney disease and found th
 <img src="../assets/Figure8_short_CKiD.png" alt="drawing" width="100%"/>
 <br><br>
 This work has been published.
-<br> **Li, Y**, Greenbaum, LA, Warady, BA, et al. “Short stature in advanced pediatric CKD is associated with faster time to reduced kidney function after transplant.” _Pediatric Nephrology 34_ (2019): 897-905. PMID: 30627858 [article](https://link.springer.com/article/10.1007/s00467-018-4165-2])
+<br> **Li, Y**, Greenbaum, LA, Warady, BA, et al. “Short stature in advanced pediatric CKD is associated with faster time to reduced kidney function after transplant.” _Pediatric Nephrology 34_ (2019): 897-905. [PMID: 30627858](https://link.springer.com/article/10.1007/s00467-018-4165-2])
