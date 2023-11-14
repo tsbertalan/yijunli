@@ -1,6 +1,8 @@
 .post {
   padding: 3rem 0;
 
+  max-width: 800px;
+
   &-info {
     color: $default-tint;
     font-family: $serif-secondary;
