@@ -8,7 +8,8 @@ permalink: /research
 <h1 class="post-title">Research</h1>
 
 <div class="catalogue catalogue-grid">
-  {% for post in ( site.posts | sort: 'order' ) %}
+  {% assign posts = site.posts | sort: 'order' %}
+  {% for post in posts %}
     {% include catalogue_item.html sticky=post.sticky %}
   {% endfor %}
 
