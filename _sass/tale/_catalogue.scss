@@ -42,22 +42,22 @@
 
   // Wider
   @media (min-width: 501px) 
-  and (max-width: 768px) {
+  and (max-width: 700px) {
     &-card-width {
       width: calc(40% - 16px);
     }
   }
 
   // Wider
-  @media (min-width: 769px)
-  and (max-width: 1024px) {
+  @media (min-width: 701px)
+  and (max-width: 900px) {
     &-card-width {
       width: calc(33% - 16px);
     }
   }
 
   // Wider
-  @media (min-width: 1025px) {
+  @media (min-width: 901px) {
     &-card-width {
       width: calc(25% - 16px);
     }
