@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Methylation changes as a biomarker for treatment response in children with Kabuki syndrome
+title: Methylation changes as a biomarker for response to treatment in children with Kabuki syndrome
 comments: false
 tags:
   - DNA
