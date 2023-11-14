@@ -17,4 +17,4 @@ Led an analysis to investigate the associations between acetaminophen metabolite
 <br>
 <img src="../assets/Figure5_APAP_BBC.jpg" alt="drawing" width="100%"/>
 <br>
-This work resulted in a first-authored manuscript currently under reviewed by *Annals of Allergy, Asthma & Immunology*.
+This work resulted in a first-authored manuscript currently under reviewed by *Annals of Allergy, Asthma and Immunology*.

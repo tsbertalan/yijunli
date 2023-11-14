@@ -20,4 +20,4 @@ In this study, we identified 33 differentially methylated CpG sites in infant bl
 <img src="../assets/Figure2-bronchiolitis_MARC.jpg" alt="drawing" width="100%"/>
 <br>
 This work has been published recently. <br>
-Zhu, Z, **Li, Y**, Freishtat, RJ, et al. “Epigenome-wide association analysis of infant bronchiolitis severity: a multicenter prospective cohort study.” _Nature Communications_ 14.1 (2023): 5495. PMID: 37679381 [article] (https://www.nature.com/articles/s41467-023-41300-y)
+Zhu, Z, **Li, Y**, Freishtat, RJ, et al. “Epigenome-wide association analysis of infant bronchiolitis severity: a multicenter prospective cohort study.” _Nature Communications_ 14.1 (2023): 5495. PMID: 37679381 [article](https://www.nature.com/articles/s41467-023-41300-y)
