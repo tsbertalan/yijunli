@@ -8,13 +8,10 @@ permalink: /research
 <h1 class="post-title">Research</h1>
 
 <div class="catalogue catalogue-grid">
-  {% assign posts = site.posts | sort: 'order' %}
-  {% for post in posts %}
+  {% assign sortedPosts = site.posts | sort: 'dispOrder' %}
+  {% for post in sortedPosts %}
+    <p>dispOrder is {% post.dispOrder %}
     {% include catalogue_item.html sticky=post.sticky %}
-  {% endfor %}
-
-  {% for post in paginator.posts %}
-    {% include catalogue_item.html %}
   {% endfor %}
 </div>
 

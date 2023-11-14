@@ -9,6 +9,7 @@ excerpt_separator: <!--more-->
 sticky: false
 hidden: false
 hero_image: assets/Figure10_WFL_Obesity.png
+dispOrder: 0
 ---
 
 <!--more-->

@@ -9,6 +9,7 @@ excerpt_separator: <!--more-->
 sticky: false
 hidden: false
 hero_image: assets/Figure8_short_CKiD.png
+dispOrder: 1
 ---
 
 <!--more-->
