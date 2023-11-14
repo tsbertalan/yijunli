@@ -1,7 +1,7 @@
 <div class="catalogue-card catalogue-card-width" onclick="location.href='{{ post.url | prepend: site.baseurl }}';">
   <div clsas="catalogue-media">
     {% if post.hero_image %}
-    <div class="catalogue-heightcrop" style="background-image: url('{{ site.baseurl}}/{{ post.hero_image }}');"></div>
+    <div class="catalogue-heightcrop" style="background-image: url('{{ site.baseurl}}/{{ post.hero_image }}; background-size: contain; background-repeat: no-repeat;');"></div>
     {% endif %}
   </div>
   <div class="catalogue-card-content">
