@@ -10,7 +10,7 @@ permalink: /research
 <div class="catalogue catalogue-grid">
   {% assign sortedPosts = site.posts | sort: 'dispOrder' %}
   {% for post in sortedPosts %}
-    <p>dispOrder is {% post.dispOrder %}
+    <p>dispOrder is {{ post.dispOrder }}</p>
     {% include catalogue_item.html sticky=post.sticky %}
   {% endfor %}
 </div>
