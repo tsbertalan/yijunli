@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EWAS analysis of infant bronchiolitis severity
-comments: true
+comments: false
 tags:
   - EWAS
   - genetics
