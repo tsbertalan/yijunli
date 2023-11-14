@@ -10,8 +10,9 @@ excerpt_separator: <!--more-->
 sticky: true
 hidden: false
 hero_image: assets/Figure1-asthma_MARC.jpg
-importance: "1"
+order: 3
 ---
+
 <!--more-->
 Led an <u>epigenome-wide association study (EWAS)</u> to investigate the associations between infant blood DNA methylation and later outcomes of recurrent wheezing and childhood asthma in a multi-center clinical cohort of infants hospitalized for bronchiolitis.
 - Identified 61 <u>novel differentially methylated regions (DMRs)</u> associated with recurrent wheezing or asthma, considering the potential <u>interaction effects from rhinovirus infection</u>.
