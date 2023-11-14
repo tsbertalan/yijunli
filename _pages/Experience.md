@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Experience"
-permalink: /experience
+title: Experience
+permalink: /exp
 ---
 
 - <strong>Platform Session Moderator</strong><br/>
