@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Experience
-permalink: /exp
+permalink: /experience
 ---
 
-- <strong>Platform Session Moderator</strong><br/>
-
+- **Platform Session Moderator**<br/>
 *American Society for Human Genetics (ASHG) annual meeting*	    Nov. 2023<br/>
 “More data, same problems: Bias in large-scale studies”, Washington DC
 - **Incubator Program Participant**<br/>
