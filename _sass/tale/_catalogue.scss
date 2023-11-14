@@ -36,6 +36,7 @@
   and (max-width : 500px) {
     /* Styles */
     &-card-width {
+      min-width: 200px;
       width: 100%;
     }
   }
@@ -44,6 +45,7 @@
   @media (min-width: 501px) 
   and (max-width: 700px) {
     &-card-width {
+      min-width: 200px;
       width: calc(40% - 16px);
     }
   }
@@ -52,6 +54,7 @@
   @media (min-width: 701px)
   and (max-width: 900px) {
     &-card-width {
+      min-width: 200px;
       width: calc(33% - 16px);
     }
   }
@@ -59,7 +62,8 @@
   // Wider
   @media (min-width: 901px) {
     &-card-width {
-      width: calc(25% - 16px);
+      min-width: 200px;
+      width: calc(25% - 34px);
     }
   }
 
