@@ -21,6 +21,6 @@ Conducted market analysis and provided strategic consulting for ZWrap, a local c
 *Johns Hopkins Bloomberg School of Public Health* 	<span style="float:right;">Nov. 2016-Dec. 2021</span><br/>
 Session instructor for an undergraduate level epidemiologic methods course; teaching assistant for several graduate level courses in genetic epidemiology, epidemiologic methods, and biostatistics.
 - **Technical Consultant**<br/>
-*Renalert LLC* <span style="float:right;">Sept. 2016 – May 2018</span><br/>
+*Renalert LLC* <span style="float:right;">Sept. 2016 – May 2017</span><br/>
 Provided technical expertise to facilitate data quality control, analysis, and development of predictive algorithms. The data was collected from patients at high risk for acute kidney injury using a real-time urine analysis device developed by Renalert.
 
