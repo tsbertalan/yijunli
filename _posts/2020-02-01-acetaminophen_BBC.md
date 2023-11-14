@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "Acetaminophen and Childhood Asthma"
+title: Cord acetaminophen metabolites and subtype of childhood asthma
 comments: false
-tags: asthma, drug-metabolism, epidemiology
+tags:
+  - asthma
+  - drug-metabolism
+  - epidemiology
 excerpt_separator: <!--more-->
 sticky: false
 hidden: false
+hero_image:
 ---
 
 <!--more-->
