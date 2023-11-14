@@ -17,7 +17,7 @@ Utilized genetic data to predict the response to lithium monotherapy in bipolar 
 <br><br>
 <img src="../assets/Figure7_PGBD_design.png" alt="drawing" width="100%"/>
 <br>
-- Performed genome-wide association studies (GWAS) in a survival analysis framework by implementing the (SPACox)[https://github.com/WenjianBI/SPACox] model.
+- Performed genome-wide association studies (GWAS) in a survival analysis framework by implementing the [SPACox](https://github.com/WenjianBI/SPACox) model.
 <br>
 <img src="../assets/Figure6_GWAS_bipolar.png" alt="drawing" width="100%"/>
 <br>
