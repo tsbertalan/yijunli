@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 sticky: false
 hidden: false
 hero_image: assets/Figure6_GWAS_bipolar.png
-dispOrder: 2
+dispOrder: 6
 ---
 
 <!--more-->

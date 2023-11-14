@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 sticky: true
 hidden: false
 hero_image: assets/Figure1-asthma_MARC.jpg
-dispOrder: 3
+dispOrder: 1
 ---
 
 <!--more-->

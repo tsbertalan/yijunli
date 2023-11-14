@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 sticky: false
 hidden: false
 hero_image: assets/Figure11_Kabuki.png
-dispOrder: 1
+dispOrder: 11
 ---
 
 <!--more-->

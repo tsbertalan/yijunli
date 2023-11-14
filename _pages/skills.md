@@ -9,7 +9,7 @@ Statistical genetics analysis for complex traits (e.g., GWAS, PRS, statistical f
 
 Analysis for high-dimensional molecular data (e.g., EWAS, differential expression analysis using bulk RNA-sequencing data, weighted gene co-expression network analysis (WGCNA), similarity network fusion (SNF), etc.)
 
-Other analysis including pathway enrichment analysis, gene-by-environment interactions, etc.
+Other relevant analytical skills include pathway enrichment analysis, gene-by-environment interactions, etc.
 
 Data quality control for epigenome-wide DNA methylation (Illumina array), proteomics (Olink platform), metabolomics (mass spectrometry), and genotyping array data.  
 

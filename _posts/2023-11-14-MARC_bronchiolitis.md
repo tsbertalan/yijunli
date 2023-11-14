@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 sticky: true
 hidden: false
 hero_image: assets/Figure2-bronchiolitis_MARC.jpg
-dispOrder: 6
+dispOrder: 2
 ---
 
 <!--more-->
