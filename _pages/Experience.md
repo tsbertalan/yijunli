@@ -23,3 +23,4 @@ Session instructor for an undergraduate level epidemiologic methods course; teac
 - **Technical Consultant**<br/>
 *Renalert LLC* Sept. 2016 – May 2018<br/>
 Provided technical expertise to facilitate data quality control, analysis, and development of predictive algorithms. The data was collected from patients at high risk for acute kidney injury using a real-time urine analysis device developed by Renalert.
+
