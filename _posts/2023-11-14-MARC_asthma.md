@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Integrating DNA methylation and plasma proteomics data to understand asthma development
+title: Integrated Epigenomic and Proteomic Analysis among Infants with Severe Bronchiolitis Identifies Roles of Early-Life DNA Methylation in Immune Function Regulation During Asthma Development
 comments: false
 tags:
   - EWAS
@@ -9,7 +9,7 @@ tags:
 excerpt_separator: <!--more-->
 sticky: true
 hidden: false
-hero_image: assets/Figure1-asthma_MARC.jpg
+hero_image: assets/Figure1-asthma_MARC.png
 dispOrder: 1
 ---
 
@@ -21,6 +21,6 @@ Led an <u>epigenome-wide association study (EWAS)</u> to investigate the associa
 - Leveraged external resources, including <u>UK biobank, STRING, ENCODE, Roadmap Epigenomics, and CATlas,</u> to further improve the interpretation of the findings.
 - Designed and executed data quality control pipelines for Illumina methylation arrays data and Olink proteomics data.
 <br>
-<img src="../assets/Figure1-asthma_MARC.jpg" alt="drawing" width="100%"/>
+<img src="../assets/Figure1-asthma_MARC.png" alt="drawing" width="100%"/>
 <br>
 This work has been presented at the *American Society for Human Genetics (ASHG) 2023 Annual Meeting* (Washington DC, November 2023). A first-authored manuscript is currently in preparation. 
